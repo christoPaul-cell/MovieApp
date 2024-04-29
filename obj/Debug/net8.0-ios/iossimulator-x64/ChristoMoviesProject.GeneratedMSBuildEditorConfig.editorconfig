@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChristoMoviesProject
+build_property.ProjectDir = C:\Users\christopher paulemon\source\repos\ChristoMoviesProject\ChristoMoviesProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/Controls/MovieInfoBox.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.Controls.MovieInfoBox.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\MovieInfoBox.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\MovieInfoBox.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/Controls/MovieRow.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.Controls.MovieRow.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\MovieRow.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\MovieRow.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/Pages/CategoriesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.Pages.CategoriesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CategoriesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CategoriesPage.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/Pages/DetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.Pages.DetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DetailsPage.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/christopher paulemon/source/repos/ChristoMoviesProject/ChristoMoviesProject/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChristoMoviesProject.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
